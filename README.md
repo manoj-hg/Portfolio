@@ -16,5 +16,5 @@ Setup instructions for PHP + MySQL backend
 
 7. Troubleshooting:
    - Check web server error logs for PHP errors.
-   - Make sure the database `portfolio_db` exists and credentials in `db.php` are correct.
+   - Make sure the database `portfolio_db` exists and credentials in `db.php` are correct..
 
